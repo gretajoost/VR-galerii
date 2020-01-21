@@ -1,6 +1,6 @@
 export default {
     
     template: `
-        <a-box class="box" color="white"></a-box>
+        <a-box class="box" ></a-box>
     `
 }
